@@ -1,4 +1,4 @@
 #gabriel de almeida
 #17anos
 #gosto de festa e mulher
-#aula de python
+#eu amo a aula de programação de aplicativos
