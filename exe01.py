@@ -4,5 +4,5 @@ z = 3.45
 if z == 3.45 or y == "hello":
     x = x + 1
     y = y + "word"
-    print(x)
-    print(y)
+print(x)
+print(y)
