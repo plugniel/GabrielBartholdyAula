@@ -1,5 +1,8 @@
-#gabriel de almeida
-#17anos
-#gosto de festa e chop
-#eu amo a aula de programação de aplicativos
-#test
+x = 34 - 23
+y = "hello"
+z = 3.45
+if z == 3.45 or y == "hello":
+    x = x + 1
+    y = y + "word"
+    print(x)
+    print(y)
