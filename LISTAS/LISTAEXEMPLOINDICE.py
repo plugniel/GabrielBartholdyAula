@@ -14,7 +14,7 @@ estoque = [1000 , 1500 , 350 , 270 , 900,80]
 produto = input('insira o nome do produto em letra minuscula: ')
 if  produto in produtos:
     
-    i = produtos.index(produto)
+    produtos.index(produto)
     qtde = estoque[i]
     print('temos {} unidades de {} no estoque'.format(qtde,produto))
 else:
