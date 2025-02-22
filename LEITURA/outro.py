@@ -1,0 +1,7 @@
+arquivo2 = open ('C:/Users/gabriel_bartholdy/Documents/pastaTXT/gol.txt','w')
+arquivo2.write('escrevendo no arquivo\n')
+arquivo2.write('john snow')
+arquivo2.write('arya stark')
+arquivo2.write('sansa stark')
+arquivo2.write('bran stark')
+arquivo2.close()
